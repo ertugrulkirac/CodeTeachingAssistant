@@ -1,0 +1,7 @@
+{
+    "for": "for: Döngü başlatmak için kullanılır. Örnek: for i in range(5):",
+    "if": "if: Koşullu ifadeler için kullanılır. Örnek: if x > 0:",
+    "print": "print: Ekrana yazı yazdırmak için kullanılır.",
+    "while": "while: Koşul sağlandığı sürece döngü oluşturur.",
+    "def": "def: Fonksiyon tanımlamak için kullanılır."
+}

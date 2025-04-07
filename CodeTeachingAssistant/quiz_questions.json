@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Python'da bir döngü başlatmak için hangi sözcük kullanılır?",
+        "options": [ "if", "while", "for", "def" ],
+        "answer": "for"
+    },
+    {
+        "question": "Ekrana yazı yazdırmak için hangi komut kullanılır?",
+        "options": [ "echo", "print", "write", "display" ],
+        "answer": "print"
+    },
+    {
+        "question": "Fonksiyon tanımlamak için hangi anahtar sözcük kullanılır?",
+        "options": [ "define", "func", "method", "def" ],
+        "answer": "def"
+    },
+    {
+        "question": "Koşullu ifadeler için hangi sözcük kullanılır?",
+        "options": [ "when", "case", "if", "while" ],
+        "answer": "if"
+    }
+]
